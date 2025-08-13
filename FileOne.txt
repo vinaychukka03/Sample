@@ -1,2 +1,3 @@
 lorem,
 hai all
+this is newly appended text
